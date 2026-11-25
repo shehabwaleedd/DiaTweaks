@@ -108,6 +108,7 @@ body:
         - Skip Account
         - Launch Flags
         - Dock Click Shows Existing Window
+        - Links Open in Existing Window
         - Allow 1Password
         - Allow Bitwarden
         - Allow Proton Pass
